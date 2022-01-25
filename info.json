@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 210.16649999999998,
+    "videos": [
         "Si ella supiera-ZdIfw1K68wM.mp4",
         "Salad Days-csJZ_9KOtNY.mp4",
         "Si Tus Besos Se Van-BOR320cTEBg.mp4",
@@ -18,7 +19,5 @@
         "Slayer - Seasons In The Abyss (Official Video)-DECp8LKurKs.mp4",
         "Stray Cats - Race With the Devil-S4ckKB7UzLM.mp4",
         "Scared As You-1mFa1AYNkA8.mp4"
-    ],
-    "id": "s1",
-    "total_size": 200.4305205078125
+    ]
 }
