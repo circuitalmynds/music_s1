@@ -92,6 +92,11 @@
             "size": 6.524413952000001
         },
         {
+            "name": "João Gilberto - 1961 - Full Album-Ezu4J1exOTI.mp4",
+            "path": "music_s1/videos/João Gilberto - 1961 - Full Album-Ezu4J1exOTI.mp4",
+            "size": 25.956883456
+        },
+        {
             "name": "Stevie Ray Vaughan - Live - MTV Unplugged 1990-FQ_DdgxRSak.mp4",
             "path": "music_s1/videos/Stevie Ray Vaughan - Live - MTV Unplugged 1990-FQ_DdgxRSak.mp4",
             "size": 29.42782464
@@ -122,5 +127,5 @@
             "size": 7.378435072
         }
     ],
-    "total_size": 307.45715609600006
+    "total_size": 333.414039552
 }
