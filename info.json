@@ -247,6 +247,13 @@
             "url": "https://github.com/circuitalmynds/music_s1/blob/main/videos/Sleepy Time Gal ~ Don Cherry (1956)-o5i3iGD12c4.mp4?raw=true"
         },
         {
+            "id": "8ZNUgmAd57s",
+            "name": "Beniamino Gigli - Adeste fideles [8ZNUgmAd57s].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/s1/videos/Beniamino Gigli - Adeste fideles [8ZNUgmAd57s].mp4",
+            "size": 3.014731,
+            "url": "https://github.com/circuitalmynds/music_s1/blob/main/videos/Beniamino Gigli - Adeste fideles [8ZNUgmAd57s].mp4?raw=true"
+        },
+        {
             "id": "C0oym6mOktc",
             "name": "Liszt： Années de pèlerinage I, S. 160 - IV. Au bord d'une source [C0oym6mOktc].mp4",
             "path": "/home/alanmatzumiya/Videos/container/s1/videos/Liszt： Années de pèlerinage I, S. 160 - IV. Au bord d'une source [C0oym6mOktc].mp4",
@@ -436,5 +443,5 @@
             "url": "https://github.com/circuitalmynds/music_s1/blob/main/videos/Al Bowlly with Victor Young & His Orchestra - When Love Comes Swingin' Along (Koehler, Henderson)-xSDCz0b_Q5c.mp4?raw=true"
         }
     ],
-    "total_size": 929.687649
+    "total_size": 932.70238
 }
